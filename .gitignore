@@ -1,0 +1,9 @@
+/target
+/bin
+MANIFEST.MF
+.classpath
+.project
+.settings
+/META-INF
+gwt-unitCache
+/src/main/webapp/WEB-INF/deploy
