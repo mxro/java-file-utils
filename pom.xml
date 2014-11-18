@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<groupId>de.mxro</groupId>
 	<artifactId>java-file-utils</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<description>Utilities to work with files in Java.</description>
 	<url>http://www.mxro.de</url>
 	<properties>
