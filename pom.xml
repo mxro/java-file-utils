@@ -5,7 +5,7 @@
 	<description>Utilities to work with files in Java.</description>
 	<url>http://www.mxro.de</url>
 	<properties>
-		<gwtVersion>2.5.1</gwtVersion>
+		<gwtVersion>2.8.2</gwtVersion>
 		<module.draftCompile>true</module.draftCompile>
 		<module.importedPackages>
 			*
